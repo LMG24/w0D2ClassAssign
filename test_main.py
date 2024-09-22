@@ -4,7 +4,7 @@ from main import greet_person
 
 class TestHelloWorld(unittest.TestCase):
     def test_hello_world(self):
-        self.assertEqual(hello_world(), "Hello from Luis Garcia!")
+        self.assertEqual(hello_world(), "Welcome to Git!")
 
 class TestGreetPerson(unittest.TestCase):
     def test_greet_person(self):

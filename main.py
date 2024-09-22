@@ -1,5 +1,5 @@
 def hello_world():
-    return "Hello from Luis Garcia!"
+    return "Welcome to Git!"
 
 def greet_person(name):
     return f"Hello, {name}!"
